@@ -1,3 +1,3 @@
 # mvn-test - test 2
 test 2
-DCO final check
+DCO final check - Final message
